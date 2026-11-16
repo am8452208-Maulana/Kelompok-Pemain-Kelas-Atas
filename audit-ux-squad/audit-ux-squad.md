@@ -2,8 +2,8 @@
 # AUDIT UX SQUAD
 ## Audit UX Aplikasi Nyata
 
-**Nama Squad:** [Isi nama squad]  
-**Anggota Squad:** [Isi nama anggota]  
+**Nama Squad:** [Pemain Kelas Atas]  
+**Anggota Squad:** [Maul,gusti,Mufid,King Yazid]  
 **Tanggal:** 16 November 2026  
 **Topik:** Audit UX Aplikasi Nyata
 
