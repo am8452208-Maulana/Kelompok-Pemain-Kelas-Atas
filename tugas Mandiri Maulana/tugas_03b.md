@@ -1,6 +1,6 @@
 # Tugas Mandiri 03b — Wireframe HTML/CSS Hitam-Putih
 
-# Nama: [Nama Lengkap Kamu]
+# Nama: [Ahmad Maulana]
 
 # 1. Kode HTML & CSS
 
