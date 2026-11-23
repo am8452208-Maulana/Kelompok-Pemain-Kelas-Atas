@@ -136,23 +136,3 @@ Berdasarkan hasil wawancara dengan pemilik usaha Teras Bundayy, Squad Pemain Kel
 2. Keterbatasan kapasitas pelayanan karena sebagian besar pekerjaan dikerjakan sendiri (*one man show*).
 3. Pencatatan pesanan secara manual yang berpotensi menyebabkan kesalahan jadwal pengiriman.
 4. Pencatatan keuangan yang belum terintegrasi sehingga perhitungan pendapatan dan modal menjadi kurang akurat.
-
-Berdasarkan permasalahan tersebut, squad memprioritaskan tiga fitur untuk rilis pertama pada Bulan 2:
-
-1. **Tampilan katalog produk.**
-2. **Form tambah, ubah, dan hapus produk.**
-3. **Pencatatan dan pengelolaan pesanan beserta jadwal pengiriman.**
-
-Fitur lainnya, seperti pencatatan keuangan, manajemen stok bahan baku, HPP, notifikasi pesanan, dan laporan penjualan, akan dikembangkan secara bertahap berdasarkan kebutuhan pedagang dan hasil evaluasi penggunaan platform.
-
-## PRINSIP KEPUTUSAN SQUAD
-
-> Pengembangan fitur harus didasarkan pada permasalahan nyata yang ditemukan melalui wawancara dengan pengguna, bukan hanya berdasarkan asumsi atau saran AI.
-
-Dengan menerapkan prinsip tersebut, squad berharap platform yang dikembangkan benar-benar mampu memberikan solusi terhadap kebutuhan dan permasalahan pedagang UMKM, khususnya dalam mengelola katalog produk dan pesanan secara lebih efektif dan terstruktur.
-
----
-
-**Squad Pemain Kelas Atas**
-
-*Berangkat dari masalah nyata, membangun solusi yang tepat guna.*
