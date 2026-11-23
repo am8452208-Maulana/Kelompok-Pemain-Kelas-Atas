@@ -8,7 +8,7 @@
 | Informasi | Keterangan |
 |---|---|
 | **Nama Usaha** | Teras Bundayy |
-| **Nama Narasumber** | Bu Fulanah |
+| **Nama Narasumber** | Bulenya Yazid |
 | **Usia** | 37 Tahun |
 | **Jenis Usaha** | Makanan dan minuman kekinian (donat dan minuman) |
 | **Lokasi** | Jl. Letkol Pol Ramli Lubis No. 02 |
