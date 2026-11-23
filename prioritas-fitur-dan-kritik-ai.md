@@ -120,11 +120,11 @@ Fitur lainnya akan dikembangkan secara bertahap berdasarkan kebutuhan pedagang d
 
 Untuk memperoleh informasi yang lebih mendalam dan memvalidasi kebutuhan pedagang, squad menyusun tiga pertanyaan lanjutan berikut:
 
-1. Bagaimana cara Bu Fulanah mencatat dan mengatur pesanan yang masuk setiap hari agar tidak terjadi kesalahan jadwal pengiriman?
+1. Bagaimana cara Bulenya Yazid mencatat dan mengatur pesanan yang masuk setiap hari agar tidak terjadi kesalahan jadwal pengiriman?
 
-2. Apakah Bu Fulanah membutuhkan sistem pencatatan pemasukan, modal, dan HPP dalam satu platform?
+2. Apakah Bulenya Yazid membutuhkan sistem pencatatan pemasukan, modal, dan HPP dalam satu platform?
 
-3. Apakah Bu Fulanah bersedia menggunakan aplikasi katalog dan manajemen pesanan, atau lebih nyaman tetap menggunakan WhatsApp dan pencatatan manual?
+3. Apakah Bulenya Yazid bersedia menggunakan aplikasi katalog dan manajemen pesanan, atau lebih nyaman tetap menggunakan WhatsApp dan pencatatan manual?
 
 ---
 
